@@ -16,7 +16,10 @@ public class App {
         
         Ketua2.menyetujuiAnggaran();
         System.out.println("-----------------------");
+        Ketua2.menyetujuiKegiatan();
+        System.out.println("-----------------------");
 
         Ketua3.menyetujuiAnggaran();
+        Ketua2.menyetujuiKegiatan();
     }
 }
