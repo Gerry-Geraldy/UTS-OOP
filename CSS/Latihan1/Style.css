@@ -1,0 +1,15 @@
+h1 {
+    color: lightblue;
+    font-family:Helvetica;
+    text-align: center;
+    font-size: 80px;
+    text-transform: uppercase;
+}
+/*Ini adalah isi paraf*/
+p {
+    color :rgb(3, 64, 88);
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 14px;
+    line-height:normal;
+}
